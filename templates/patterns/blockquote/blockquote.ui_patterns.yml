@@ -18,7 +18,7 @@ blockquote:
       preview:
         - type: html_tag
           tag: p
-          value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante."
+          value: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit."
     attribution:
       type: "render"
       label: "Attribution"
@@ -26,15 +26,9 @@ blockquote:
       preview:
         - type: html_tag
           tag: span
-          value: "Someone famous in "
+          value: "Cicero in "
     cite:
       type: "render"
       label: "Citation"
       description: "The creative work in which the referenced quote was published. Optional."
-      preview:
-        - type: html_tag
-          tag: cite
-          value: "Source Title"
-          attributes:
-            title:
-              - "Source Title"
+      preview: "de Finibus Bonorum et Malorum"
