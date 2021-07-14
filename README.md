@@ -2,6 +2,12 @@
 
 Drupal 8 theme based on [Bootstrap 5](https://v5.getbootstrap.com/) and [UI Patterns](https://github.com/nuvoleweb/ui_patterns/).
 
+This has been forked from https://github.com/openeuropa/oe_bootstrap_theme.
+The difference with upstream is that this is compatible with PHP 7.1 and has the
+JS and CSS assets committed so they do not need to be compiled. This is intended
+as a temporary solution for the Joinup project until we can retire our legacy
+infrastructure.
+
 ## Paragraphs
 
 The paragraphs below are not yet themed therefore not recommended for usage:
